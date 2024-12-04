@@ -3,3 +3,4 @@ mysql:5.7.37
 redis
 jenkins
 hello-word
+anapsix/alpine-java:8_server-jre_unlimited
